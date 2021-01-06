@@ -43,3 +43,15 @@
 #text{
     text-align: left ;
 }
+.env_li{
+    margin-top: 15px ;
+}
+.env_li h4{
+    border-bottom: 2px solid white ;
+    padding: 8px ;
+}
+.env_li p{
+    font-size: 15px ;
+    word-spacing: 2px ;
+    padding-top: 10px ; 
+}
