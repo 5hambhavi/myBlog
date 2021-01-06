@@ -55,3 +55,14 @@
     word-spacing: 2px ;
     padding-top: 10px ; 
 }
+.my_books{
+    box-shadow: 5px 5px 5px gray ;
+    cursor: pointer ;
+}
+.my_books img{
+    width: 200px ;
+    margin-top: 20px ;
+}
+#alumni{
+    margin-top: 30px ;
+}
